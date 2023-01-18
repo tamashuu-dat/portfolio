@@ -47,4 +47,4 @@
 
 
 ## 連絡先
-- E-mail [a@a.a](mailto:a@a.a)
+- E-mail [tamashuu.dat@gmail.com](tamashuu.dat@gmail.com)
