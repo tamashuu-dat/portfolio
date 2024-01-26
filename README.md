@@ -51,6 +51,7 @@
 - 開発環境：Tyrano Script
 - 開発期間：約半年
 - デジタルアーツ東京 2023年学園祭 展示作品
+- ゲームクリエイター甲子園2023(https://gameparade.creators-guild.com/works/1686) 参加作品
 
 ### 探偵はウイルス
 
@@ -59,6 +60,7 @@
 - 開発環境：Tyrano Script
 - 開発期間：1年
 - デジタルアーツ東京　2023年学園祭 展示作品
+- ノベルゲームコレクション(https://novelgame.jp/games/show/8720) 出展作品
 
 ### クリスマスカード
 
@@ -66,7 +68,8 @@
 
 - 開発環境：Mind Render
 - 開発期間：1週間
-- 【Mind Render + こーじ 第5回プログラミング&クリエイティブコンテスト】アートメッセージ部門 参加作品
+- 【Mind Render + こーじ 第5回プログラミング&クリエイティブコンテスト】アートメッセージ部門(https://mindrender.jp/contest2312results/) 入賞作品
+  - アカウント名：たま / 作品名：クリスマスカード
 
 ### SUZUKOのスズあつめ
 ![SUZUKOのスズ集め](images/Suzuko.png)
