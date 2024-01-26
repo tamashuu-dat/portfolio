@@ -62,7 +62,7 @@
 - 開発環境：Tyrano Script
 - 開発期間：1年
 - デジタルアーツ東京　2023年学園祭 展示作品
-- ノベルゲームコレクション(https://novelgame.jp/games/show/8720) 出展作品
+- ノベルゲームコレクション(https://novelgame.jp/games/show/8720) 投稿作品
 
 ### クリスマスカード
 ![クリスマスカード](images/cristmass.png)
